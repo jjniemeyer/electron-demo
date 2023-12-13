@@ -1,0 +1,22 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "poc",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjniemeyer/electron-demo.git"
+  },
+  "author": "Jasper Niemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjniemeyer/electron-demo/issues"
+  },
+  "homepage": "https://github.com/jjniemeyer/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
